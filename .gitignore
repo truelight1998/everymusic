@@ -1,0 +1,24 @@
+# 빌드 파일
+/target/
+/bin/
+/build/
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE 관련 (STS4 & IntelliJ)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.idea/
+*.iml
+
+# 시크릿 설정 파일 (직접 추가)
+application.properties
+
+# OS
+.DS_Store
