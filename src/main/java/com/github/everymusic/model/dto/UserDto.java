@@ -1,4 +1,4 @@
-package com.github.everymusic.user.dto;
+package com.github.everymusic.model.dto;
 
 import java.time.LocalDateTime;
 
